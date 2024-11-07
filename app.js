@@ -9,6 +9,6 @@ function quebrar() {
     // Passo 1: Copiar o arquivo de áudio para o projeto
     // Passo 2: Usar a classe Audio(biblioteca interna do JS)
     let som = new Audio()
-    som.src="sound/glassbreaking.waw"
+    som.src="sound/glassbreaking.wav"
     som.play()
 }
